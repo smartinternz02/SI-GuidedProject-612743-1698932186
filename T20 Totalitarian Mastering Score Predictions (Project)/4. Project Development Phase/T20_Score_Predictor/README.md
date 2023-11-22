@@ -25,4 +25,4 @@ The objective of the T20 World Cup Score Prediction project is to forecast the c
 
 ## Website OverView:-
 
-### ```Click Here to Visit the Website 👉``` (https://mudit14-t20-score-predictor.streamlit.app/)
+### ```Click Here to Visit the Website 👉``` (https://mudit14-t20-score-prediction.streamlit.app/)
